@@ -2,7 +2,7 @@
 - 👀 I’m interested in web design
 - 🌱 I’m currently learning more web design
 - 🌱 I’m currently learning Javascript,Phyton,Java,Php.
-- 💞️ I’m looking to collaborate on..
+- 💞️ Here I will post my projects.
 - 📫 How to reach me matiasruizc315@gmail.com or my phone number (+595)982505661
 
 <!---
